@@ -12,3 +12,4 @@ foreach( $product_categories as $category ){
 }
 echo "</select>";
 ?>
+//https://d31wcbk3iidrjq.cloudfront.net/WHq7HCHQ-8B2BB6EA-8D18-4643-8AA4-56C70A32176E.jpg?w=40&h=40&q=80
